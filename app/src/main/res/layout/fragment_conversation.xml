@@ -21,14 +21,14 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/accent_white"
+    android:background="@color/very_very_light_gray"
     android:fitsSystemWindows="true">
 
     <android.widget.Toolbar
         android:id="@+id/toolbarConversation"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="@color/accent_white"
+        android:background="@color/background_advertize"
         android:elevation="8dp"
         android:popupTheme="@style/ThemeOverlay.AppCompat.Light"
         android:theme="@style/Theme.Toolbar"
@@ -148,9 +148,9 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:tabBackground="@color/accent_white"
+                app:tabBackground="@color/background_advertize"
                 app:tabGravity="fill"
-                app:tabIndicatorColor="@color/accent_white"
+                app:tabIndicatorColor="@color/background_advertize"
                 app:tabMaxWidth="0dp"
                 app:tabMode="fixed"
                 app:tabSelectedTextColor="@color/primary"
