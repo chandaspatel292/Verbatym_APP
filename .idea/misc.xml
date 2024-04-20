@@ -8,6 +8,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/cancel_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/check_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/chose_file_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/dropdown_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/edit_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/edit_text_background.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/exit_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/keyboard_icon.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/left_arrow_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/mic.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/mic_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/mic_mute.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/offline_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/reload_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/reset_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/right_arrow_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/search_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/send_icon.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/sound_icon.xml" value="0.29739583333333336" />
         <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/sound_mute_icon.xml" value="0.21875" />
         <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/three_dot_icon.xml" value="0.21875" />
         <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/drawable/user_icon.xml" value="0.21875" />
@@ -46,6 +66,7 @@
         <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/menu/recent_row_menu.xml" value="0.20260416666666667" />
         <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/menu/toolbar_menu.xml" value="0.20260416666666667" />
         <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21875" />
+        <entry key="..\:/Users/chand/StudioProjects/Verbatym_APP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21875" />
       </map>
     </option>
   </component>

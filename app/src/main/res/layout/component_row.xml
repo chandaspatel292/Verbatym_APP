@@ -30,7 +30,7 @@
         android:layout_marginBottom="8dp"
         android:background="#00000000"
         android:text="TextView"
-        android:textColor="@color/light_black"
+        android:textColor="@color/very_light_gray"
         android:textSize="17sp"
         android:textStyle="normal"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -47,10 +47,10 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:src="@drawable/user_icon"
-        android:tint="#5F5F5F"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/light_gray" />
 </androidx.constraintlayout.widget.ConstraintLayout>
