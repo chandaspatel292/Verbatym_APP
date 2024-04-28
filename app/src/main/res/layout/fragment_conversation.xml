@@ -151,7 +151,7 @@
                 app:layout_constraintTop_toTopOf="parent"
                 app:tabBackground="@color/background_advertize"
                 app:tabGravity="fill"
-                app:tabIndicatorColor="@color/background_advertize"
+                app:tabIndicatorColor="@color/light_gray"
                 app:tabMaxWidth="0dp"
                 app:tabMode="fixed"
                 app:tabSelectedTextColor="@color/primary"
